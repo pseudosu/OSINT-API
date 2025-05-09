@@ -6,3 +6,5 @@ pydantic==2.3.0
 python-dotenv==1.0.0
 asyncio==3.4.3
 aioredis==2.0.1
+fastapi-cache2==0.2.1
+pydantic-settings==2.0.3
